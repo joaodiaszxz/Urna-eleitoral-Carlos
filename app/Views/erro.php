@@ -1,0 +1,1 @@
+<section class="painel"><h1>Não foi possível continuar</h1><div class="mensagem erro" role="alert"><?= htmlspecialchars($mensagem ?? 'Erro inesperado.', ENT_QUOTES, 'UTF-8') ?></div><a class="botao" href="?action=inicio">Voltar ao início</a></section>

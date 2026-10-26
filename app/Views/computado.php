@@ -1,0 +1,1 @@
+<section class="painel central"><div class="check">✓</div><h1>Voto computado</h1><p>A demonstração registrou seu voto. Esta sessão não pode votar novamente.</p><a class="botao" href="?action=inicio">Encerrar</a><a href="?action=resultado">Ver apuração fictícia</a></section>
